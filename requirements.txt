@@ -2,6 +2,7 @@ streamlit
 whisper
 openai-whisper
 pyttsx3
+ffmpeg
 pydub
 moviepy
 google-cloud-speech
