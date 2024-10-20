@@ -1,0 +1,13 @@
+streamlit
+whisper
+pyttsx3
+pydub
+moviepy
+google-cloud-speech
+google-cloud-texttospeech
+azure-ai-textanalytics
+openai
+numpy
+scipy
+librosa
+soundfile
