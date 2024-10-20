@@ -1,5 +1,6 @@
 streamlit
 whisper
+openai-whisper
 pyttsx3
 pydub
 moviepy
